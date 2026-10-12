@@ -1,0 +1,9 @@
+*.zip
+*.tif
+*.tiff
+*.bsq
+*.hdr
+data/
+.venv/
+.ipynb_checkpoints/
+sentinel_lab1_real_v3/
